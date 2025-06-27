@@ -23,7 +23,7 @@
 
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Cybersecurity+%7C+Ethical+Hacking+%7C+AI+Forensics;Wi-Fi+Exploit+Researcher+%7C+AI+x+Security+🔐;Python+%7C+Linux+%7C+VSCode+%7C+Wireshark+Wizard" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Cybersecurity+%7C+AI+Forensics+%7C+Linux+Wizard;Python+%7C+Malware+Analysis+%7C+Wireshark+Pro;Red+Team+Ops+%7C+Reverse+Engineering" alt="Typing SVG" />
 </p>
 
 ---
@@ -65,8 +65,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ABHAYKUMARTRIPATHI&show_icons=true&theme=radical&cache_seconds=1800" alt="Abhay's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYKUMARTRIPATHI&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ABHAYKUMARTRIPATHI&show_icons=true&theme=radical&cache_seconds=1800" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ABHAYKUMARTRIPATHI&layout=compact&theme=radical" width="48%"/>
 </p>
 
 ---
@@ -74,8 +74,23 @@
 ### 🏆 GitHub Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ABHAYKUMARTRIPATHI&theme=radical&column=7" alt="GitHub Trophy" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ABHAYKUMARTRIPATHI&theme=radical&column=7" />
 </p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ABHAYKUMARTRIPATHI/ABHAYKUMARTRIPATHI/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+### 🔁 Recent GitHub Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 ---
 
