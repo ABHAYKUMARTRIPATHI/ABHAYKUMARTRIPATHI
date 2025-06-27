@@ -21,11 +21,6 @@
   </a>
 </p>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=480&lines=Cybersecurity+%7C+AI+Forensics+%7C+Linux+Wizard;Python+%7C+Malware+Analysis+%7C+Wireshark+Pro;Red+Team+Ops+%7C+Reverse+Engineering" alt="Typing SVG" />
-</p>
-
 ---
 
 ### 🛡️ Cybersecurity | Ethical Hacking | AI Forensics | Linux Wizard
@@ -76,21 +71,6 @@
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ABHAYKUMARTRIPATHI&theme=radical&column=7" />
 </p>
-
----
-
-### 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABHAYKUMARTRIPATHI/ABHAYKUMARTRIPATHI/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 🔁 Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 ---
 
