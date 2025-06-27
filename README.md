@@ -1,7 +1,3 @@
-<!-- BANNER -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ABHAYKUMARTRIPATHI/ABHAYKUMARTRIPATHI/main/banner.png" alt="Abhay Kumar Tripathi Banner"/>
-</p>
 
 <!-- NAME + SOCIAL -->
 <h1 align="center">🙋‍♂️ Abhay Kumar Tripathi</h1>
